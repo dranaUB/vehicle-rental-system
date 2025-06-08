@@ -2,7 +2,7 @@
 
 **Python vehicle-rental system with OOP & LLD included**
 
-A clean, object-oriented demo application for managing a fleet of cars and bikes, complete with reservation lifecycle, billing, and payment processing. Includes low-level design artifacts (UML class and sequence diagrams) in the `diagrams/` folder.
+A clean, object-oriented demo application for managing a fleet of cars and bikes, complete with reservation lifecycle, billing, and payment processing. Includes low-level design artifacts (UML class and sequence diagrams).
 
 ---
 
